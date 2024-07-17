@@ -1,0 +1,5 @@
+data/
+venv/
+main_files/
+main.html
+main.qmd
